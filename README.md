@@ -1,7 +1,8 @@
 # TFBGF Tutorials  
 *Ana Paula Fernandes & Gilmar Guimarães October 24, 2016*
-##Abstract
-* The Matlab codes tutorials are part of the research to building the article: A. P. Fernandes, M. B. dos Santos, and G. Guimarães. An ana- lytical transfer function method to solve inverse heat conduction problems. Applied Mathematical Modelling, 2015. ISSN 0307-904X. doi: http://dx.doi.org/10.1016/j. apm.2015.02.012.
+## Abstract
+* The Matlab codes tutorials are part of the research to building the article: A. P. Fernandes, M. B. dos Santos, and G. Guimarães. An ana- lytical transfer function method to solve inverse heat conduction problems. Applied Mathematical Modelling, 2015.
+ISSN 0307-904X. doi: http://dx.doi.org/10.1016/j. apm.2015.02.012.
 
 ##### [Fundamental solution X20.](https://github.com/ana-mat-br/TFBGF/blob/master/Tutorial1.pdf "Heading link")
 
